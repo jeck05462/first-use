@@ -25,4 +25,4 @@ with open('douban1.csv', 'a') as f:
             url = (i['url'])
             cover = (i['cover'])
             # f.write('{}, {}, {}, {}\n'.format(title, rate, url, cover))
-            # this is new .。1
+            # this is new .。2
