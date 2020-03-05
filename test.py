@@ -1,6 +1,5 @@
 import requests
 import json
-
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) '
                         'Chrome/63.0.3239.132 Safari/537.36'}
 print("电影类型：热门 经典 可播放 豆瓣高分 冷门佳片 华语 欧美 韩国 日本 动作 喜剧 爱情 科幻 悬疑 恐怖 动画")
